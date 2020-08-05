@@ -21,7 +21,8 @@
     top: 255px;
     display: none;
   }
-   &:hover {
+
+  &:hover {
     .image {
       opacity: 0.8;
     }
@@ -30,7 +31,7 @@
       opacity: 0.85;
       display: flex;
     }
-   }
+  }
 
   .collection-footer {
     width: 100%;
