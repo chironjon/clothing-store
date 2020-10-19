@@ -1,6 +1,6 @@
 {
   "name": "clothing-store",
-  "homepage": "https://https://chironjon.github.io/clothing-store/",
+  "homepage": "https://chironjon.github.io/clothing-store/",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
